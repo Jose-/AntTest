@@ -1,6 +1,6 @@
 package es.upm.miw.spai.ant;
 
-//Mensage
+//Mensage otroe
 public class Suma {
 	public double getSuma(double operando1, double operando2) {
 		return operando1 + operando2;
